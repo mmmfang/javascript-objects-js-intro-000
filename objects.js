@@ -3,7 +3,9 @@ var playlist = {
   song: "Kick it"
 }
 
-function updatePlaylist(playlist, artistName, songTitle) {
-  var newPlaylist = playlist, "NCT U", "Resonance";
-  return newPlaylist;
-}
+// function updatePlaylist(playlist, artistName, songTitle) {
+//   var newPlaylist = playlist, "NCT U", "Resonance";
+//   return newPlaylist;
+// }
+
+Object.assign{(), {artistName: "NCT U"}, {songTitle: "Resonance"}; }
