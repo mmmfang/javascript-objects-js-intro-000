@@ -8,4 +8,4 @@ var playlist = {
 //   return newPlaylist;
 // }
 
-Object.assign{(), {artistName: "NCT U"}, {songTitle: "Resonance"}; }
+Object.assign{(playlist), {artistName: "NCT U"}, {songTitle: "Resonance"}; }
